@@ -1,3 +1,9 @@
+---
+layout: page
+title: "software Eng. lecture note
+permalink: /docs/softwareEng2026
+---
+
 # 第1回  
 ## 到達目標  
 ソフトウェア・エンジニアリング基礎知識理解および実務的なスキル習得を目標とする
